@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<menu>
+  <item>
+    <path>civicrm/contridivide</path>
+    <page_callback>CRM_Contridivide_Form_CustomReceiptPrefix</page_callback>
+    <title>CustomReceiptPrefix</title>
+    <access_arguments>Administer CiviCRM</access_arguments>
+  </item>
+</menu>
